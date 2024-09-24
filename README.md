@@ -1,6 +1,6 @@
 # Hi 👋 I'm Marie! 😊 
 
-- 📉 Currently working as an AI Advisor at Orcawise working on Custom LLM fine-tuning and RAG.
+- 📉 Currently working as an AI Advisor at Orcawise working on Custom LLM fine-tuning and RAG: https://huggingface.co/Orcawise
 - ✅ Up to date on Machine Learning Model training and evalutation.
 - 👩‍✈ Former Army Officer and Intelligence Analyst.
 - 🤓 Looking for roles in AI Engineereing.
